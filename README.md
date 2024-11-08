@@ -1,5 +1,10 @@
 # BI-360 (PowerBI project)
 
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiZDM2MTc5NjEtZDkzNi00NzU5LTg3ZGYtNjc0MzkwMDMwZDBjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) for Live PowerBI dashboard.
+
+Click [here](https://www.linkedin.com/posts/activity-7257656639145598976-vkXc?utm_source=share&utm_medium=member_desktop) to watch the video presentation of the dashboards.
+
+
 𝐓𝐡𝐞 𝐒𝐭𝐨𝐫𝐲:<br/>
 AtliQ Hardware, is a consumer goods electronics company, having operations in various countries. Their business is growing rapidly and they still rely on excel files for data analytics.
 
@@ -27,7 +32,3 @@ To develop an interactive power BI app, consisting of dashboards that provided k
 -  Power BI Service platform
 -  Publishing reports to Power BI Service
 -  Configuring personal gateway for automatic data refresh 
-
-Click [here](https://app.powerbi.com/view?r=eyJrIjoiZDM2MTc5NjEtZDkzNi00NzU5LTg3ZGYtNjc0MzkwMDMwZDBjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) for Live PowerBI dashboard.
-
-Click [here](https://www.linkedin.com/posts/activity-7257656639145598976-vkXc?utm_source=share&utm_medium=member_desktop) to watch the video presentation of the dashboards.
