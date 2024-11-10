@@ -1,6 +1,6 @@
 # BI-360 (PowerBI project)
 
-Click [here](https://app.powerbi.com/view?r=eyJrIjoiZDM2MTc5NjEtZDkzNi00NzU5LTg3ZGYtNjc0MzkwMDMwZDBjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) for Live PowerBI dashboard.
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiYzNlMDU4ZDAtYTc5OS00MmYwLTg1OGUtNjg3NDRjM2U1YmY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) for Live PowerBI dashboard.
 
 Click [here](https://www.linkedin.com/posts/activity-7257656639145598976-vkXc?utm_source=share&utm_medium=member_desktop) to watch the video presentation of the dashboards.
 
